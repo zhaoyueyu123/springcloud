@@ -1,0 +1,47 @@
+#单机版本
+#server:
+#  port: 8761
+#spring:
+#  application:
+#    name: eureka-server
+#
+#eureka:
+#  server:
+#    eviction-interval-timer-in-ms: 10000
+#    renewal-percent-threshold: 0.85
+#  instance:
+#    instance-id: ${eureka.instance.hostname}:${spring.application.name}:${server.port}
+#    hostname: localhost
+#    prefer-ip-address: true
+#    lease-renewal-interval-in-seconds: 5
+
+#集群版本
+#server:
+#  port: 8761
+#spring:
+#  application:
+#    name: eureka-server
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://peer2:8762/eureka,http://peer3:8763/eureka
+#  instance:
+#    hostname: peer1
+#    instance-id: ${eureka.instance.hostname}:${spring.application.name}:${server.port}
+#    prefer-ip-address: true
+#    lease-renewal-interval-in-seconds: 5
+
+#集群终极方案
+server:
+  port: 8761
+spring:
+  application:
+    name: eureka-server
+eureka:
+  client:
+    service-url:
+      defaultZone: http://peer1:8761/eureka,http://peer2:8762/eureka,http://peer3:8763/eureka
+  instance:
+    instance-id: ${spring.application.name}:${server.port}
+    prefer-ip-address: true
+    lease-renewal-interval-in-seconds: 5
