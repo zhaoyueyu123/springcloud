@@ -6,8 +6,13 @@
       <module fileurl="file://$PROJECT_DIR$/01-eureka/01-eureka-server/01-eureka-server.iml" filepath="$PROJECT_DIR$/01-eureka/01-eureka-server/01-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/01-eureka-server-b/01-eureka-server-b.iml" filepath="$PROJECT_DIR$/01-eureka/01-eureka-server-b/01-eureka-server-b.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/01-eureka-server-c/01-eureka-server-c.iml" filepath="$PROJECT_DIR$/01-eureka/01-eureka-server-c/01-eureka-server-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-ribbon/01-provider-a/01-provider-a.iml" filepath="$PROJECT_DIR$/02-ribbon/01-provider-a/01-provider-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-ribbon/01-provider-b/01-provider-b.iml" filepath="$PROJECT_DIR$/02-ribbon/01-provider-b/01-provider-b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-ribbon/02-consumer/02-consumer.iml" filepath="$PROJECT_DIR$/02-ribbon/02-consumer/02-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/02-erreka-client-b/02-erreka-client-b.iml" filepath="$PROJECT_DIR$/01-eureka/02-erreka-client-b/02-erreka-client-b.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/02-eureka-client-a/02-eureka-client-a.iml" filepath="$PROJECT_DIR$/01-eureka/02-eureka-client-a/02-eureka-client-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-ribbon/02-ribbon.iml" filepath="$PROJECT_DIR$/02-ribbon/02-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-eureka/03-rest-template/03-rest-template.iml" filepath="$PROJECT_DIR$/01-eureka/03-rest-template/03-rest-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
     </modules>
   </component>
