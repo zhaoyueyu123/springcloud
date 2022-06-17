@@ -15,9 +15,11 @@
         <module name="02-eureka-client-a" />
         <module name="03-rest-template" />
         <module name="02-consumer" />
+        <module name="01-order-service" />
         <module name="02-erreka-client-b" />
         <module name="01-provider-b" />
         <module name="01-provider-a" />
+        <module name="03-openfeign" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -25,12 +27,14 @@
       <module name="01-eureka-server" target="1.8" />
       <module name="01-eureka-server-b" target="1.8" />
       <module name="01-eureka-server-c" target="1.8" />
+      <module name="01-order-service" target="1.8" />
       <module name="01-provider-a" target="1.8" />
       <module name="01-provider-b" target="1.8" />
       <module name="02-consumer" target="1.8" />
       <module name="02-erreka-client-b" target="1.8" />
       <module name="02-eureka-client-a" target="1.8" />
       <module name="02-ribbon" target="8" />
+      <module name="03-openfeign" target="8" />
       <module name="03-rest-template" target="1.8" />
       <module name="demo" target="1.5" />
     </bytecodeTargetLevel>
@@ -40,6 +44,7 @@
       <module name="01-eureka-server" options="-parameters" />
       <module name="01-eureka-server-b" options="-parameters" />
       <module name="01-eureka-server-c" options="-parameters" />
+      <module name="01-order-service" options="-parameters" />
       <module name="01-provider-a" options="-parameters" />
       <module name="01-provider-b" options="-parameters" />
       <module name="02-consumer" options="-parameters" />
