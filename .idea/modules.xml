@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/01-eureka/02-erreka-client-b/02-erreka-client-b.iml" filepath="$PROJECT_DIR$/01-eureka/02-erreka-client-b/02-erreka-client-b.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/02-eureka-client-a/02-eureka-client-a.iml" filepath="$PROJECT_DIR$/01-eureka/02-eureka-client-a/02-eureka-client-a.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-ribbon/02-ribbon.iml" filepath="$PROJECT_DIR$/02-ribbon/02-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-openfeign/02-user-service/02-user-service.iml" filepath="$PROJECT_DIR$/03-openfeign/02-user-service/02-user-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-openfeign/03-openfeign.iml" filepath="$PROJECT_DIR$/03-openfeign/03-openfeign.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/03-rest-template/03-rest-template.iml" filepath="$PROJECT_DIR$/01-eureka/03-rest-template/03-rest-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />

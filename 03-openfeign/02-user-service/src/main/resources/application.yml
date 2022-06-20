@@ -1,0 +1,14 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: user-service
+eureka:
+  client:
+    service-url:
+      defaulZone: http://127.0.0.1:8761/eureka
+
+#feign只是帮你封装了远程调用功能,底层还是ribbon,所以我们需要去修改ribbon的时间
+ribbon:
+  ReadTimeout: 3000 #给3s超时时间
+  ConnectTimeout: 3000 #连接服务的超时时间
