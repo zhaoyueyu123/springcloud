@@ -1,5 +1,6 @@
 package com.bjpowernode;
 
+import feign.Logger;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
@@ -14,4 +15,10 @@ public class UserServiceApplication {
 		SpringApplication.run(UserServiceApplication.class, args);
 	}
 
+	/**
+	 * 打印日志信息,级别
+	 */
+	public Logger.Level level(){
+		return Logger.Level.FULL;
+	}
 }
