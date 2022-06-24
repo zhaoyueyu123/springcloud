@@ -20,10 +20,11 @@
         <option value="$PROJECT_DIR$/04-hystrix/pom.xml" />
         <option value="$PROJECT_DIR$/04-hystrix/01-customer-service/pom.xml" />
         <option value="$PROJECT_DIR$/04-hystrix/02-rent-car-service/pom.xml" />
+        <option value="$PROJECT_DIR$/04-hystrix/04-feign-project/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (3)" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

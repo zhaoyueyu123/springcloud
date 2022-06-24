@@ -18,5 +18,12 @@
     <file url="file://$PROJECT_DIR$/03-openfeign/02-user-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04-hystrix/01-customer-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04-hystrix/02-rent-car-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-hystrix/04-feign-project/common-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-hystrix/04-feign-project/order-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-hystrix/04-feign-project/order-center/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-hystrix/04-feign-project/project-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-hystrix/04-feign-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-hystrix/04-feign-project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-hystrix/04-feign-project/user-center/src/main/java" charset="UTF-8" />
   </component>
 </project>

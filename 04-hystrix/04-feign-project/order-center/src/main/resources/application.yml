@@ -1,0 +1,17 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: order-service
+eureka:
+  client:
+    service-url:
+      defaulZone: http://127.0.0.1:8761/eureka
+  instance:
+    hostname: localhost
+    instance-id: ${eureka.instance.hostname}:${spring.application.name}:${server.port}
+
+ribbon:
+  eureka:
+    enabled: false
+

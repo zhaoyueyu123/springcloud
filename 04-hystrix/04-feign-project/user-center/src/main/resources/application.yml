@@ -1,0 +1,16 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: user-service
+eureka:
+  client:
+    service-url:
+      defaulZone: http://127.0.0.1:8761/eureka
+  instance:
+    hostname: localhost
+    instance-id: ${eureka.instance.hostname}:${spring.application.name}:${server.port}
+
+feign:
+  hystrix:
+    enable: true #开启熔断

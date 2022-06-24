@@ -7,29 +7,35 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="01-eureka" />
-        <module name="01-eureka-server" />
-        <module name="01-eureka-server-b" />
-        <module name="01-eureka-server-c" />
+        <module name="project-domain" />
         <module name="02-ribbon" />
         <module name="02-consumer" />
         <module name="01-order-service" />
         <module name="02-eureka-client-a" />
         <module name="03-rest-template" />
+        <module name="02-erreka-client-b" />
+        <module name="order-center" />
+        <module name="01-customer-service" />
+        <module name="demo" />
+        <module name="03-openfeign" />
+        <module name="02-rent-car-service" />
+        <module name="consumer" />
+        <module name="01-eureka" />
+        <module name="user-center" />
+        <module name="01-eureka-server" />
+        <module name="01-eureka-server-b" />
+        <module name="01-eureka-server-c" />
+        <module name="customer-service" />
         <module name="02-user-service" />
         <module name="04-hystrix" />
-        <module name="02-erreka-client-b" />
-        <module name="01-customer-service" />
+        <module name="rent-car-service" />
         <module name="01-provider-b" />
-        <module name="demo" />
         <module name="01-provider-a" />
         <module name="eureka-server-b" />
         <module name="eureka-server-c" />
-        <module name="03-openfeign" />
+        <module name="common-api" />
         <module name="order-service" />
         <module name="provider-b" />
-        <module name="02-rent-car-service" />
-        <module name="consumer" />
         <module name="provider-a" />
       </profile>
     </annotationProcessing>
@@ -50,14 +56,21 @@
       <module name="02-user-service" target="1.8" />
       <module name="03-openfeign" target="8" />
       <module name="03-rest-template" target="1.8" />
+      <module name="04-feign-project" target="8" />
       <module name="04-hystrix" target="8" />
+      <module name="common-api" target="8" />
       <module name="consumer" target="1.8" />
+      <module name="customer-service" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="eureka-server-b" target="1.8" />
       <module name="eureka-server-c" target="1.8" />
+      <module name="order-center" target="8" />
       <module name="order-service" target="1.8" />
+      <module name="project-domain" target="8" />
       <module name="provider-a" target="1.8" />
       <module name="provider-b" target="1.8" />
+      <module name="rent-car-service" target="1.8" />
+      <module name="user-center" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -75,13 +88,19 @@
       <module name="02-rent-car-service" options="-parameters" />
       <module name="02-user-service" options="-parameters" />
       <module name="03-rest-template" options="-parameters" />
+      <module name="common-api" options="-parameters" />
       <module name="consumer" options="-parameters" />
+      <module name="customer-service" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="eureka-server-b" options="-parameters" />
       <module name="eureka-server-c" options="-parameters" />
+      <module name="order-center" options="-parameters" />
       <module name="order-service" options="-parameters" />
+      <module name="project-domain" options="-parameters" />
       <module name="provider-a" options="-parameters" />
       <module name="provider-b" options="-parameters" />
+      <module name="rent-car-service" options="-parameters" />
+      <module name="user-center" options="-parameters" />
     </option>
   </component>
 </project>
