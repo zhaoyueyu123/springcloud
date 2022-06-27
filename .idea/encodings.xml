@@ -25,5 +25,10 @@
     <file url="file://$PROJECT_DIR$/04-hystrix/04-feign-project/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04-hystrix/04-feign-project/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04-hystrix/04-feign-project/user-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-admin-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-gateway/01-gateway-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-gateway/02-login-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-gateway/src/main/resources" charset="UTF-8" />
   </component>
 </project>

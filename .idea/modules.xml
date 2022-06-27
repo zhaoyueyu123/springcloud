@@ -7,12 +7,14 @@
       <module fileurl="file://$PROJECT_DIR$/01-eureka/01-eureka-server/01-eureka-server.iml" filepath="$PROJECT_DIR$/01-eureka/01-eureka-server/01-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/01-eureka-server-b/01-eureka-server-b.iml" filepath="$PROJECT_DIR$/01-eureka/01-eureka-server-b/01-eureka-server-b.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/01-eureka-server-c/01-eureka-server-c.iml" filepath="$PROJECT_DIR$/01-eureka/01-eureka-server-c/01-eureka-server-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-gateway/01-gateway-server/01-gateway-server.iml" filepath="$PROJECT_DIR$/06-gateway/01-gateway-server/01-gateway-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-openfeign/01-order-service/01-order-service.iml" filepath="$PROJECT_DIR$/03-openfeign/01-order-service/01-order-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-ribbon/01-provider-a/01-provider-a.iml" filepath="$PROJECT_DIR$/02-ribbon/01-provider-a/01-provider-a.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-ribbon/01-provider-b/01-provider-b.iml" filepath="$PROJECT_DIR$/02-ribbon/01-provider-b/01-provider-b.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-ribbon/02-consumer/02-consumer.iml" filepath="$PROJECT_DIR$/02-ribbon/02-consumer/02-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/02-erreka-client-b/02-erreka-client-b.iml" filepath="$PROJECT_DIR$/01-eureka/02-erreka-client-b/02-erreka-client-b.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/02-eureka-client-a/02-eureka-client-a.iml" filepath="$PROJECT_DIR$/01-eureka/02-eureka-client-a/02-eureka-client-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-gateway/02-login-service/02-login-service.iml" filepath="$PROJECT_DIR$/06-gateway/02-login-service/02-login-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/02-rent-car-service/02-rent-car-service.iml" filepath="$PROJECT_DIR$/04-hystrix/02-rent-car-service/02-rent-car-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-ribbon/02-ribbon.iml" filepath="$PROJECT_DIR$/02-ribbon/02-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-openfeign/02-user-service/02-user-service.iml" filepath="$PROJECT_DIR$/03-openfeign/02-user-service/02-user-service.iml" />
@@ -20,6 +22,8 @@
       <module fileurl="file://$PROJECT_DIR$/01-eureka/03-rest-template/03-rest-template.iml" filepath="$PROJECT_DIR$/01-eureka/03-rest-template/03-rest-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/04-feign-project/04-feign-project.iml" filepath="$PROJECT_DIR$/04-hystrix/04-feign-project/04-feign-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/04-hystrix.iml" filepath="$PROJECT_DIR$/04-hystrix/04-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-admin-server/05-admin-server.iml" filepath="$PROJECT_DIR$/05-admin-server/05-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-gateway/06-gateway.iml" filepath="$PROJECT_DIR$/06-gateway/06-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/04-feign-project/common-api/common-api.iml" filepath="$PROJECT_DIR$/04-hystrix/04-feign-project/common-api/common-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-ribbon/02-consumer/consumer.iml" filepath="$PROJECT_DIR$/02-ribbon/02-consumer/consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/01-customer-service/customer-service.iml" filepath="$PROJECT_DIR$/04-hystrix/01-customer-service/customer-service.iml" />
