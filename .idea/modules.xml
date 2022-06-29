@@ -20,16 +20,20 @@
       <module fileurl="file://$PROJECT_DIR$/03-openfeign/02-user-service/02-user-service.iml" filepath="$PROJECT_DIR$/03-openfeign/02-user-service/02-user-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-openfeign/03-openfeign.iml" filepath="$PROJECT_DIR$/03-openfeign/03-openfeign.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/03-rest-template/03-rest-template.iml" filepath="$PROJECT_DIR$/01-eureka/03-rest-template/03-rest-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-gateway/03-teacher-service/03-teacher-service.iml" filepath="$PROJECT_DIR$/06-gateway/03-teacher-service/03-teacher-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/04-feign-project/04-feign-project.iml" filepath="$PROJECT_DIR$/04-hystrix/04-feign-project/04-feign-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/04-hystrix.iml" filepath="$PROJECT_DIR$/04-hystrix/04-hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-admin-server/05-admin-server.iml" filepath="$PROJECT_DIR$/05-admin-server/05-admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-gateway/06-gateway.iml" filepath="$PROJECT_DIR$/06-gateway/06-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-admin-server/admin-server.iml" filepath="$PROJECT_DIR$/05-admin-server/admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/04-feign-project/common-api/common-api.iml" filepath="$PROJECT_DIR$/04-hystrix/04-feign-project/common-api/common-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-ribbon/02-consumer/consumer.iml" filepath="$PROJECT_DIR$/02-ribbon/02-consumer/consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/01-customer-service/customer-service.iml" filepath="$PROJECT_DIR$/04-hystrix/01-customer-service/customer-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/01-eureka-server/demo.iml" filepath="$PROJECT_DIR$/01-eureka/01-eureka-server/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/01-eureka-server-b/eureka-server-b.iml" filepath="$PROJECT_DIR$/01-eureka/01-eureka-server-b/eureka-server-b.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/01-eureka-server-c/eureka-server-c.iml" filepath="$PROJECT_DIR$/01-eureka/01-eureka-server-c/eureka-server-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-gateway/01-gateway-server/gateway-server.iml" filepath="$PROJECT_DIR$/06-gateway/01-gateway-server/gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-gateway/02-login-service/login-service.iml" filepath="$PROJECT_DIR$/06-gateway/02-login-service/login-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/04-feign-project/order-center/order-center.iml" filepath="$PROJECT_DIR$/04-hystrix/04-feign-project/order-center/order-center.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-openfeign/01-order-service/order-service.iml" filepath="$PROJECT_DIR$/03-openfeign/01-order-service/order-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/04-feign-project/project-domain/project-domain.iml" filepath="$PROJECT_DIR$/04-hystrix/04-feign-project/project-domain/project-domain.iml" />

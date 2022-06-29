@@ -25,6 +25,7 @@
         <option value="$PROJECT_DIR$/06-gateway/02-login-service/pom.xml" />
         <option value="$PROJECT_DIR$/06-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/06-gateway/01-gateway-server/pom.xml" />
+        <option value="$PROJECT_DIR$/06-gateway/03-teacher-service/pom.xml" />
       </list>
     </option>
   </component>
