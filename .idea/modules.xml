@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/01-eureka/01-eureka-server-b/01-eureka-server-b.iml" filepath="$PROJECT_DIR$/01-eureka/01-eureka-server-b/01-eureka-server-b.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/01-eureka-server-c/01-eureka-server-c.iml" filepath="$PROJECT_DIR$/01-eureka/01-eureka-server-c/01-eureka-server-c.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-gateway/01-gateway-server/01-gateway-server.iml" filepath="$PROJECT_DIR$/06-gateway/01-gateway-server/01-gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-nacos/01-nacos-client-a/01-nacos-client-a.iml" filepath="$PROJECT_DIR$/07-nacos/01-nacos-client-a/01-nacos-client-a.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-openfeign/01-order-service/01-order-service.iml" filepath="$PROJECT_DIR$/03-openfeign/01-order-service/01-order-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-ribbon/01-provider-a/01-provider-a.iml" filepath="$PROJECT_DIR$/02-ribbon/01-provider-a/01-provider-a.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-ribbon/01-provider-b/01-provider-b.iml" filepath="$PROJECT_DIR$/02-ribbon/01-provider-b/01-provider-b.iml" />
@@ -25,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/04-hystrix.iml" filepath="$PROJECT_DIR$/04-hystrix/04-hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-admin-server/05-admin-server.iml" filepath="$PROJECT_DIR$/05-admin-server/05-admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-gateway/06-gateway.iml" filepath="$PROJECT_DIR$/06-gateway/06-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-nacos/07-nacos.iml" filepath="$PROJECT_DIR$/07-nacos/07-nacos.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-admin-server/admin-server.iml" filepath="$PROJECT_DIR$/05-admin-server/admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/04-feign-project/common-api/common-api.iml" filepath="$PROJECT_DIR$/04-hystrix/04-feign-project/common-api/common-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-ribbon/02-consumer/consumer.iml" filepath="$PROJECT_DIR$/02-ribbon/02-consumer/consumer.iml" />
@@ -34,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/01-eureka/01-eureka-server-c/eureka-server-c.iml" filepath="$PROJECT_DIR$/01-eureka/01-eureka-server-c/eureka-server-c.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-gateway/01-gateway-server/gateway-server.iml" filepath="$PROJECT_DIR$/06-gateway/01-gateway-server/gateway-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-gateway/02-login-service/login-service.iml" filepath="$PROJECT_DIR$/06-gateway/02-login-service/login-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-nacos/02-nacos-client-b/nacos-client-b.iml" filepath="$PROJECT_DIR$/07-nacos/02-nacos-client-b/nacos-client-b.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/04-feign-project/order-center/order-center.iml" filepath="$PROJECT_DIR$/04-hystrix/04-feign-project/order-center/order-center.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-openfeign/01-order-service/order-service.iml" filepath="$PROJECT_DIR$/03-openfeign/01-order-service/order-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/04-feign-project/project-domain/project-domain.iml" filepath="$PROJECT_DIR$/04-hystrix/04-feign-project/project-domain/project-domain.iml" />

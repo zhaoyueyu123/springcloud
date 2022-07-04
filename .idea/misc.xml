@@ -26,6 +26,9 @@
         <option value="$PROJECT_DIR$/06-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/06-gateway/01-gateway-server/pom.xml" />
         <option value="$PROJECT_DIR$/06-gateway/03-teacher-service/pom.xml" />
+        <option value="$PROJECT_DIR$/07-nacos/pom.xml" />
+        <option value="$PROJECT_DIR$/07-nacos/01-nacos-client-a/pom.xml" />
+        <option value="$PROJECT_DIR$/07-nacos/02-nacos-client-b/pom.xml" />
       </list>
     </option>
   </component>

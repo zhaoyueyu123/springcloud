@@ -1,0 +1,15 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: nacos-client-b
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+      username: nacos
+      password: nacos
+      discovery: #这里是和注册相关的配置
+        namespace: cfc1e3eb-e7d1-4818-9fbb-212e0be99263
+        group: A_GROUP #往哪个组注册
+        service: user-service #这个才是注册列表的名字，如果不写默认是取${spring.application.name}
+
