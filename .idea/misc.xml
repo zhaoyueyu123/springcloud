@@ -29,6 +29,8 @@
         <option value="$PROJECT_DIR$/07-nacos/pom.xml" />
         <option value="$PROJECT_DIR$/07-nacos/01-nacos-client-a/pom.xml" />
         <option value="$PROJECT_DIR$/07-nacos/02-nacos-client-b/pom.xml" />
+        <option value="$PROJECT_DIR$/07-nacos/03-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/07-nacos/04-nacos-config-a/pom.xml" />
       </list>
     </option>
   </component>

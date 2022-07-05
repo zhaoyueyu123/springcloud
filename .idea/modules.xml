@@ -19,11 +19,13 @@
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/02-rent-car-service/02-rent-car-service.iml" filepath="$PROJECT_DIR$/04-hystrix/02-rent-car-service/02-rent-car-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-ribbon/02-ribbon.iml" filepath="$PROJECT_DIR$/02-ribbon/02-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-openfeign/02-user-service/02-user-service.iml" filepath="$PROJECT_DIR$/03-openfeign/02-user-service/02-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-nacos/03-gateway/03-gateway.iml" filepath="$PROJECT_DIR$/07-nacos/03-gateway/03-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-openfeign/03-openfeign.iml" filepath="$PROJECT_DIR$/03-openfeign/03-openfeign.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-eureka/03-rest-template/03-rest-template.iml" filepath="$PROJECT_DIR$/01-eureka/03-rest-template/03-rest-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-gateway/03-teacher-service/03-teacher-service.iml" filepath="$PROJECT_DIR$/06-gateway/03-teacher-service/03-teacher-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/04-feign-project/04-feign-project.iml" filepath="$PROJECT_DIR$/04-hystrix/04-feign-project/04-feign-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-hystrix/04-hystrix.iml" filepath="$PROJECT_DIR$/04-hystrix/04-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-nacos/04-nacos-config-a/04-nacos-config-a.iml" filepath="$PROJECT_DIR$/07-nacos/04-nacos-config-a/04-nacos-config-a.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-admin-server/05-admin-server.iml" filepath="$PROJECT_DIR$/05-admin-server/05-admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-gateway/06-gateway.iml" filepath="$PROJECT_DIR$/06-gateway/06-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-nacos/07-nacos.iml" filepath="$PROJECT_DIR$/07-nacos/07-nacos.iml" />
